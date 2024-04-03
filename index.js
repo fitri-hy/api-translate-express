@@ -1,1 +1,1 @@
-require('api-translate-express');
+require('api-translate-expressjs');
