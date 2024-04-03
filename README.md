@@ -2,6 +2,8 @@
 
 Create a Translate Api from google with Express JS
 
+<img src="Screenshoot.png" />
+
 ## Installation
 ```sh
 git clone https://github.com/fitri-hy/api-translate-express.git
