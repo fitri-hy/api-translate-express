@@ -1,0 +1,1 @@
+require('api-translate-express');
