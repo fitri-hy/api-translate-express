@@ -28,7 +28,7 @@ LIMIT_MESSAGE='Too many requests from this IP, please try again later.'
 
 ## Create & Setup (index.js)
 ```
-require('api-translate-express');
+require('api-translate-expressjs');
 ```
 
 ## Run Project
