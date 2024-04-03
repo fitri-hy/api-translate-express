@@ -7,7 +7,7 @@ Create a Translate Api from google with Express JS
 ## Installation
 ```sh
 git clone https://github.com/fitri-hy/api-translate-express.git
-cd api-translate-express
+cd api-translate-express api-translate-expressjs
 npm install
 ```
 
