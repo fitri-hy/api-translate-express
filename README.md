@@ -2,7 +2,7 @@
 
 Create a Translate Api from google with Express JS
 
-<img src="Screenshoot.png" />
+<img align="center" src="Screenshoot.png" />
 
 ## Installation
 ```sh
